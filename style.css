@@ -219,6 +219,7 @@ body {
 
 label input[type="checkbox"] {
   -webkit-appearance: none;
+  appearance: none;
 }
 
 label input[type="checkbox"]:checked ~ .fas {
